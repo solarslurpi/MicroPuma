@@ -1,0 +1,5 @@
+# Welcome
+I am fascinated by microbes in the soil.  This led to an interest in microscopy.  I ran across [the Puma project](https://www.optarc.co.uk/products/puma-products/) by Dr. Paul J. Tadross and thought how great is that?  A person with expertese in microscopy has the passion to open source a DIY microscope and also make a small business out of it!  So I ask myself, how hard can it be to make a Puma microscope?  I guess as hard as I make it. So off I go!
+# Resources
+- [Puma Github site](https://github.com/TadPath/PUMA).  The CAD files are in FreeCAD.  It would have been much easier to have .stl files.  However, Dr. Tadross noted the .stl files were too large for GitHub.. So I had to install FreeCAD and convert.  More in a bit.
+- [Puma 3D printing guide](https://github.com/TadPath/PUMA/blob/943e9fdd85a75a0f66877ff655aecd6222ea8cb0/3D_Printing/PUMA_3D_Printing_Guide.pdf)
