@@ -1,7 +1,9 @@
+# What the Heck?
+I am exploring how good of a microscope can be made using mostly 3D parts.  Heck, it works for my Prusa Printer....Oh and, of course learning for the sheer exhilaration of it all.
 # Welcome
-I am fascinated by microbes in the soil.  This led to an interest in microscopy.  I ran across [the Puma project](https://www.optarc.co.uk/products/puma-products/) by Dr. Paul J. Tadross and thought how great is that?  A person with expertese in microscopy has the passion to open source a DIY microscope and also make a small business out of it!  So I ask myself, how hard can it be to make a Puma microscope?  I guess as hard as I make it. So off I go!
+Who needs Virtual Reality when there is a whole world of tiny creatures dashing around a soil sample.  I wanted a microscope that I could evolve over time to self adjust focus, detect movement and track the little critters as they dash about,..., all digitally captured.  I ran across [the PUMA project](https://www.optarc.co.uk/products/puma-products/) by Dr. Paul J. Tadross and decided to try putting together the PUMA DIY microscope.  A person with expertese in microscopy has the passion to open source a DIY microscope and also make a small business out of it. On to answer the burning questions -  _how hard can it be to make a Puma microscope?_  I guess _as hard as I make it_. So off I go!
 # Resources
-- [Puma Github site](https://github.com/TadPath/PUMA).  The CAD files are in FreeCAD.  It would have been much easier to have .stl files.  However, Dr. Tadross noted the .stl files were too large for GitHub.. So I had to install FreeCAD and convert.  More in a bit.
+- [Puma Github site](https://github.com/TadPath/PUMA).  The CAD files are in FreeCAD's file format.   
 - [Puma 3D printing guide](https://github.com/TadPath/PUMA/blob/943e9fdd85a75a0f66877ff655aecd6222ea8cb0/3D_Printing/PUMA_3D_Printing_Guide.pdf).  The guide walks through how to use FreeCAD to generate the STL files.  The information helped to get into FreeCAD's "mesh design workspace", however, I was having a challenge saving to STL. I found [export method 1 from the FreeCAD wiki](https://wiki.freecadweb.org/Export_to_STL_or_OBJ) gave me the info I needed.  The guide lists all the STL files.  I have included the STL files in this build.
 # Build the Stand
 - Print out the [Stage stl files]
