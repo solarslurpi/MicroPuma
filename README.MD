@@ -20,7 +20,8 @@ As I dove in, I immediately started drowning in the trees without a way of seein
 - A CAD software package I'd never heard of (my bad I guess).  
 - Component sources are places I don't normally shop (Alibaba for example).  M6, M4, M3, M2 threaded bolts, nuts, washers with specific tops...um, my hardware store might have had one of the bolts....
 # Building the Stand
-![The Puma stand]()
+![The Puma stand](images/PUMAstandDrawing.jpg)
+[PDF file](https://github.com/solarslurpi/PumaBuddy/blob/f52439c8b1b514a02d744e74469203ae59990232/stand/Puma%20Stand%20Drawing%20v1.pdf)
 I couldn't find any manual or video that walks through putting the stage together.  Here is my attempt.  I broke building the stand into three parts.
 ## 1-Base
 
