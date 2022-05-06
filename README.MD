@@ -31,7 +31,6 @@ With Fusion 360 in mind, besides the challenge of knowing what STL files to use 
 I couldn't find any manual or video that walks through putting the stage together.  Here is my attempt.  I broke building the stand into three parts.
 ## 1-Base
 ### Exploded View
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJgOUpIeiLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iJgOUpIeiLo
 " target="_blank"><img src="http://img.youtube.com/vi/iJgOUpIeiLo/0.jpg" 
