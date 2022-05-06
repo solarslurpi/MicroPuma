@@ -20,10 +20,17 @@ As I dove in, I immediately started drowning in the trees without a way of seein
 - A CAD software package I'd never heard of (my bad I guess).  
 - Component sources are places I don't normally shop (Alibaba for example).  M6, M4, M3, M2 threaded bolts, nuts, washers with specific tops...um, my hardware store might have had one of the bolts....
 # Building the Stand
+I started by extracting the STL files from FreeCAD.  I then pulled the STLs into Fusion 360.  Let's stop here for a second so I can explain why I introduce Fusion 360 when I can just shove the STL files on my Prusa mk3s printer.  I did it because I was completely confused and clueless how to put the stand together.  My cluelessness is slightly better, so I am hoping someone will take pity on this effort and guide me where I made mistakes.  What does Fusion 360 bring in?  A way to break out the building and BoM in the most efficient way.  By that I mean animated exploded views and Drawings with a Parts list.
+
+With Fusion 360 in mind, besides the challenge of knowing what STL files to use out of the ocean of available files, STLs are difficult to model with.  The least of it being STL files are unitless.  The hardest challenge is converting an STL into a Fusion 360 body.
 ![The Puma stand](images/PUMAstandDrawing.jpg)
+
 [PDF file](https://github.com/solarslurpi/PumaBuddy/blob/f52439c8b1b514a02d744e74469203ae59990232/stand/Puma%20Stand%20Drawing%20v1.pdf)
+
 I couldn't find any manual or video that walks through putting the stage together.  Here is my attempt.  I broke building the stand into three parts.
 ## 1-Base
+### Exploded View
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJgOUpIeiLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Build the Stand
