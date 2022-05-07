@@ -27,7 +27,9 @@ I started by extracting the STL files from FreeCAD.  I then pulled the STLs into
 - stage articulation
 
 I couldn't find any manual or video that walks through putting the stage together.  Here is my attempt.  I broke building the stand into three parts.
+_______________________________
 __NOTE: I did not get everything right..hopefully this will get sorted out.__
+_______________________________
 
 ![The Puma stand](images/PUMAstandDrawing.jpg)
 
@@ -46,3 +48,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ![Base Drawing](images/1-BaseDrawing.jpg)
 
 [PDF](https://github.com/solarslurpi/PumaBuddy/blob/01cbbe87106be13944b3c225bc930370f290b2b4/stand/Drawings/1-Base%20Drawing%20v1.pdf)
+## 2 - Focus
+### Exploded View
+(click on image to watch YouTube video)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XiMGDtzHzSQ
+" target="_blank"><img src="http://img.youtube.com/vi/XiMGDtzHzSQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### BoM Drawing
+![focus Drawing](images/2-focusDrawing.jpg)
+
