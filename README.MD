@@ -43,5 +43,4 @@ __NOTE: I did not get everything right..hopefully this will get sorted out.__
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### BoM Drawing
-![base drawing](stand/Drawings/1-baseDrawing.jpg)
-[PDF]
+![PDF](stand/Drawings/1-Base Drawing v1.pdf)
