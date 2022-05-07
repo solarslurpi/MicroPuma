@@ -59,3 +59,16 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### BoM Drawing
 ![focus Drawing](images/2-focusDrawing.jpg)
 
+[PDF](https://github.com/solarslurpi/PumaBuddy/blob/721834b39df8f03a3f6df8d085082c20eaef00d0/stand/Drawings/2-focus%20Drawing%20v1.pdf)
+## 3 - Stabilizer
+### Exploded View
+(click on image to watch YouTube video)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2HwezklRY6c
+" target="_blank"><img src="http://img.youtube.com/vi/2HwezklRY6c/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### BoM Drawing
+![Stabilizer Drawing](images/3-Stabilizer.jpg)
+[PDF](stand/Drawings/3-Stabilizer%20Drawing%20v1.pdf)
+
