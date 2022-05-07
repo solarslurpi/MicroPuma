@@ -22,6 +22,9 @@ As I dove in, I immediately started drowning in the trees without a way of seein
 - A CAD software package I'd never heard of (my bad I guess).  
 - Component sources are places I don't normally shop (Alibaba for example).  M6, M4, M3, M2 threaded bolts, nuts, washers with specific tops...um, my hardware store might have had one of the bolts....
 # Building the Stand
+_________________________
+__NOTE: I did not put the timing belt on because the build is not altogether correct.  My hope is by publishing my work, I might get help on what I am doing wrong.__
+_________________________
 I started by extracting the STL files from FreeCAD.  I then pulled the STLs into Fusion 360.  Let's stop here for a second so I can explain why I introduce Fusion 360 when I can just shove the STL files on my Prusa mk3s printer.  I did it because I was completely confused and clueless how to put the stand together.  My cluelessness is slightly better, so I am hoping someone will take pity on this effort and guide me where I made mistakes.  What does Fusion 360 bring in?  A way to document building 3D projects.  It will give us BoM drawings as well as exploded views.  I'll show you these in just a bit.  The challenge with bringing in mesh files with the goal of better documentation is the mesh files need to be converted into Fusion 360 bodies.  STL files can be challenging.  Two STL files I found particularly challenges:
 - focus plate
 - stage articulation
