@@ -43,4 +43,6 @@ __NOTE: I did not get everything right..hopefully this will get sorted out.__
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### BoM Drawing
-![PDF](stand/Drawings/1-Base Drawing v1.pdf)
+![Base Drawing](images/1-BaseDrawing.jpg)
+
+[PDF](https://github.com/solarslurpi/PumaBuddy/blob/01cbbe87106be13944b3c225bc930370f290b2b4/stand/Drawings/1-Base%20Drawing%20v1.pdf)
